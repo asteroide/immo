@@ -1,0 +1,14 @@
+configuration:
+  coef_rent: 11
+  coef_price: 2600
+  coef_work: 12
+  coef_taxes: 13
+
+personal:
+  salary: 2000
+  alimony: 0
+  other_salary: 0
+  credits: 0
+  other_charge: 0
+
+loaning:

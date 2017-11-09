@@ -1,0 +1,30 @@
+    +------+  +-------+
+    |Import|  | Export|
+    +------+  +-------+
+
++-----------------+-------------------------+--------------------------+------------------------------+----------------------+-------------------+
+|                 |                         |                          |                              |                      |                   |
+| Configuration   |  Données                |  Informations            |  Informations                |  Résultats           |  Graphiques       |
+|                 |  personnelles           |  sur l'achat             |  sur l'emprunt               |  globaux             |  emprunts         |
+|                 |                         |                          |                              |                      |                   |
++------------------------------------------------------------------------------------------------------------------------------------------------+
+|  coef loyer     |  salaires               |  prix brut               |  emprunts possibles          |                      |                   |
+|  coef prix      |  pensions               |  honoraires              |  taux actuels                |                      |                   |
+|  coef travaux   |  autres revenus         |  loyer possible          |  assurances                  |                      |                   |
+|  coef impôts    |  crédits en cours       |  charges annuelles       |  frais de dossier            |                      |                   |
+|                 |  autres charges         |  travaux potentiels      |  apport                      |                      |                   |
+|                 |                         |  surface                 |  durée emprunt               |                      |                   |
+|                 |                         |                          |                              |                      |                   |
+|                 |                         |                          |                              |                      |                   |
++------------------------------------------------------------------------------------------------------------------------------------------------+
+|                 |  taux d'endettement     |  prix sur le marché      |  mensualités                 |  taux d'endettement  |  graphe emprunts  |
+|                 |                         |  location sur le marché  |  assurances                  |  rentabilité brute   |                   |
+|                 |                         |                          |  mensualités avec assurance  |  TAEG                |                   |
+|                 |                         |                          |  coût du crédit              |  TEG                 |                   |
+|                 |                         |                          |  TEG                         |  gains lissés Ax12=B |                   |
+|                 |                         |                          |                              |                      |                   |
+|                 |                         |                          |                              |                      |                   |
+|                 |                         |                          |                              |                      |                   |
+|                 |                         |                          |                              |                      |                   |
+|                 |                         |                          |                              |                      |                   |
++-----------------+-------------------------+--------------------------+------------------------------+----------------------+-------------------+
